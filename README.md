@@ -1,4 +1,5 @@
-# Algorithmes projects  #### THP-NEXT
+# Algorithmes projects  
+### THP-NEXT
 
 ## How to run :
 
