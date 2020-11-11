@@ -5,7 +5,7 @@ fs.readFile(process.argv[2], "utf8", (error, data) => {
   selectionSort(numbers, numbers.length);
 });
 
-const numberMatch = (numbers) => {
+const selectionSort = (numbers) => {
   let k = 17;
   let n = 0;
 
