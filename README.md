@@ -16,7 +16,7 @@
 
 - The second algorithmes projects are in `projet2_algos` folder. Proceed the same way to run tests with the `numbers.txt` file :
 
-  - $ `node ex1.js numbers.txt "10"
+  - $ `node ex1.js numbers.txt` "10"
    - (change the names of exos files .js to test them all)
    - (You can also insert the required number at the end of it in console to test)
 
