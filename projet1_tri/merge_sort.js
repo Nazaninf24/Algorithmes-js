@@ -2,7 +2,7 @@ const fs = require("fs");
 
 fs.readFile(process.argv[2], "utf8", (error, data) => {
   if (error) return console.log(error);
-  mainMerge(data.split(" ").map(Number));
+  mainMerge(data.split(" ").filter((item) => !isNaN(item)).map(Number));
 });
 
 const mainMerge = (array) => {
