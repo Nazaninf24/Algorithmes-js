@@ -12,7 +12,7 @@
   In the console (to see Bubble and Insert sorting programs) working with `list.txt` and change it to`list2.txt` numbers.
 
   - $ node merge_sort.js list.txt 
-  (to see the Merge sort program in action (using `list.txt` and  change it to`list2.txt`). 
+   - (to see the Merge sort program in action (using `list.txt` and  change it to`list2.txt`). 
 
 - The second algorithmes projects are in `projet2_algos` folder. Proceed the same way to run tests with the `numbers.txt` file :
 
