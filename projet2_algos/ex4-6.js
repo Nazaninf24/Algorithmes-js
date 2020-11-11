@@ -1,7 +1,7 @@
-let fs = require("fs");
+const fs = require("fs");
 
 fs.readFile(process.argv[2], "utf8", (error, data) => {
-  numbers = data.split(" ").map(Number);
+  numbers = data.split(" ").filter((item) => !isNaN(item)).map(Number);
   selectionSort(numbers, numbers.length);
 });
 
