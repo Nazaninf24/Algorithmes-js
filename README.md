@@ -1,6 +1,6 @@
-# Algorithmes Projects  
+## Algorithmes Projects  
 
-## How to run :
+### How to run :
 
 - Clone or download the `Algorithmes-js` project folder,
 
