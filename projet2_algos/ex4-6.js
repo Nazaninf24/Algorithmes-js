@@ -5,7 +5,7 @@ fs.readFile(process.argv[2], "utf8", (error, data) => {
   selectionSort(numbers, numbers.length);
 });
 
-const selectionSort = (numbers, len) => {
+function selectionSort(numbers, len) {
   let count = 1;
   let min = numbers[len - 1];
 
@@ -16,4 +16,4 @@ const selectionSort = (numbers, len) => {
     }
   }
   console.log(count);
-};
+}
