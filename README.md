@@ -4,7 +4,7 @@
 
 - Clone or download the `Algorithmes` project folder,
 
-- There are 2 projects folders inside, Open each folder separately into your terminal & Vs code:
+- There are 2 projects folders inside, Open each folder separately into your terminal & Vs code :
 
 - In the first folder `projet1_tri` there are sorting projects. To use it just run :
 
