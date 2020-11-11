@@ -1,5 +1,4 @@
-# Algorithmes projects 
- ####THP NEXT
+# Algorithmes Projects  
 
 ## How to run :
 
@@ -22,3 +21,5 @@
   (You can also insert the required number at the end of it to test)
 
  Enjoy
+
+### THP-NEXT
