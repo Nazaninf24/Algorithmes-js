@@ -2,7 +2,7 @@
 
 ## How to run :
 
-- Clone or download the `Algorithmes` project folder,
+- Clone or download the `Algorithmes-js` project folder,
 
 - There are 2 projects folders inside, Open each folder separately into your terminal & Vs code :
 
