@@ -56,7 +56,7 @@ class Classifier {
   }
 }
 
-let fs = require("fs");
+const fs = require("fs");
 const data = fs.readFileSync(process.argv[2], "utf8"); //Throw en cas d'erreur (donc il faut catch)
 let sort = new Classifier(data);
 console.log(data);
